@@ -1,0 +1,1 @@
+﻿var __testDataSource={items:[{dataFilePath:'Default.xls',dataFileFormat:'excel',dataFileFolder:'C:\\Users\\BMANICHA\\OneDrive - Capgemini\\Documents\\Unified Functional Testing\\demo_1\\Res1',namePairs:[]}]};
